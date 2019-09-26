@@ -1,3 +1,3 @@
-# PruebaGit
+# Botecito App
 -- 
-Teaching the students how to use git bash
+Manage your boat trips
